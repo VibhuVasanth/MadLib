@@ -5,7 +5,7 @@ nounlist = ["Mirror", "Peer", "John", "Connor", "Vibhu", " Dog", "Apple", "Banna
 verblist = ["Carve", "decorate", "talked", "walked", "scared", "baked","treated", "displayed","cakcled", "amazed", "screamed", "shrieked","shivered" ]
 adjectivelist = ["dirty", "beautiful", "terrifiyng", "horrible", "bad" ,"spec", "Eerie","chilled","creepy", "frieghting", "horrific", "ghastly", "petryfying", "sinister", "wicked"]
 
-costumelist = ["Vampire", "Gru", "Scream", "Ghost", "Bannana", "Hotdog", "dinosaur", "cheese", "cheetos", "Robot", "computer"]
+costumelist = ["Vampire", "Gru", "Scream", "Ghost", "Bannana", "Hotdog", "dinosaur", "cheese", "cheetos", "Robot", "computer", "Skelton"]
 
 
 noun1 = random.choice(nounlist)
