@@ -1,5 +1,5 @@
 import random 
-import time
+
 
 #We are defining multiple inputs that are stored in variables that will be plugged into the print statement
 nounlist = ["Mirror", "Peer", "John", "Connor", "Vibhu", " Dog", "Apple", "Bannana", "thunder", "Cancun", "Italy,", "Doctor", "Ceo","Cto", "Teacher","river", "mountain", "rain", "Sunny", "Robotics"]
@@ -83,7 +83,6 @@ if verb4 == "random":
 
 
 
-time.sleep(1)
 
 print(f"It was the night before Halloween, or Halloween Eve,  and I still didn't have a costume. The {noun1} rattled behind me as I stared {noun2} looking at the closet behind me. I looked at the different costumes I had, {costume1} , {costume2} , {costume3} ,{costume4} . I walked to my closet, picking up {costume1} ,  I used my {senses} senses examining the specs of dust that rotted the look of the costume. One by one I went through each of the costumes, costum2 was {adjective1} , {costume3} one was {adjective2} , {costume4} was {adjective3}.I had no clue what to wear as each one didn't match my expectation. My inner light bulb had just been lighted  at that moment. I {verb1} an amazon same day delivery to buy a {costume5} , that  looked absolutely {adjective4} , {adjective5} , {adjective6} .  It cost me around {noun3} . At that moment  when it arrived I {verb2} down the stairs almost {verb3} . The next day I  {verb4} the costume I bought and went with a trick or treating ppythbasket as big as the {noun4} . I placed both my airpod ear and turned on Mission Impossible Music.")
 
